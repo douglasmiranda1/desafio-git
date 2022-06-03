@@ -1,0 +1,3 @@
+1 - git config --global user.name "username github"
+2 - git config --global user.email "email  github"
+3 - git init

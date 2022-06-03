@@ -1,0 +1,9 @@
+1 - Abra a pasta local
+2 - Com o botão direito do mouse 'Bash Here'
+3 - 'git clone endereço copiado' (Clonar repositório disponivel no github para maquina)
+4 - cd nome da pasta (Acessar arquivo)
+5 - git status 
+6 - Após adicionar novas informações, arquivos ou pastas no repositório local, git status novamente
+7 - 'Git add .' para adicionar novas alterações ao bash
+8 - git commit -m "COMENTARIO SOBRE O QUE ATUALIZOU"
+
